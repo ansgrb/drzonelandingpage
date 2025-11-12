@@ -1,0 +1,9 @@
+name of the application Doctor Zone - Doctors/Clients
+
+those are two applications to manage the arrangements between paithens and doctors in your area/zone and here's the name dr zone came from and will help connect them togher 
+if you are a doctor you colud install dr zone doctors for it's An application that enables doctors or organizations to create their own page for easy access to them
+
+Doctor Zone - Doctors link on google play: https://play.google.com/store/apps/details?id=com.ama.doctorzone.doctors&hl=en_US
+
+Doctor Zone - Client link on google play: https://play.google.com/store/apps/details?id=com.ama.doctorzone&hl=en_US
+
